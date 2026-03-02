@@ -31,7 +31,7 @@ The AI advises. The human decides. The system records everything.
 
 ## 2. Live Demo
 
-🔗 **[Launch the App →](YOUR_STREAMLIT_CLOUD_URL_HERE)**
+🔗 **[Launch the App →]([AI Compliance Review](https://ai-compliance-review.streamlit.app/))**
 
 > Replace the link above with your deployed Streamlit Cloud URL.
 
